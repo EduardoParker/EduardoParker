@@ -1,4 +1,7 @@
-## Hi there 👋
+![Web Developer](https://github.com/user-attachments/assets/a6efaa1d-e5d1-4ec1-9b85-e77b000f99d8)
+
+
+Hi there 👋
 
 <!--
 **EduardoParker/EduardoParker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
