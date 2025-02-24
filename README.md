@@ -16,13 +16,6 @@ Automotive system engineer and Web developing front-end and back-end <img decodi
 
 * :heartbeat: I love can solve problems in any part of my professional live and i enjoy a lot help others to achive theirs goals 👼
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-parker-lopez/)
 
 </div>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as Web developer front-end and back-end at Solera
-- 🌱 I’m currently learning Typescript and Angular and later on I plan to learn Java.
-- 👯 I’m looking to collaborate with web developers to improve my skills.
-- 💬 Ask me about cars, automotive industry and javascript ein specialty with react
