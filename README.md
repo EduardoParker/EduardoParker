@@ -8,6 +8,16 @@
 <div id="header" align="left">
 
 ### :man_technologist: Sobre mí :
+Automotive system engineer and Web developing front-end and back-end <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* :telescope: I’m currently working as Web developer front-end and back-end at Solera :muscle:
+
+* :seedling: I´m currently learning Typescrpt and Angular:blue_book: and later on I plan to lear Java 🤯.
+
+* :heartbeat: I love can solve problems in any part of my professional live and i enjoy a lot help others to achive theirs goals 👼
+
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
 </div>
 
 Here are some ideas to get you started:
