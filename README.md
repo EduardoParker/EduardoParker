@@ -16,7 +16,7 @@ Automotive system engineer and Web developing front-end and back-end <img decodi
 
 * :heartbeat: I love can solve problems in any part of my professional live and i enjoy a lot help others to achive theirs goals 👼
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Noelia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
 
 </div>
 
