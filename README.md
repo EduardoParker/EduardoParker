@@ -15,7 +15,6 @@ Automotive system engineer and Web developing front-end and back-end <img decodi
 * :seedling: I´m currently learning Typescrpt and Angular:blue_book: and later on I plan to lear Java 🤯.
 
 * :heartbeat: I love can solve problems in any part of my professional live and i enjoy a lot help others to achive theirs goals 👼
-
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-parker-lopez/)
+* :mailbox: Do you want to contact me?? [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-parker-lopez/)
 
 </div>
