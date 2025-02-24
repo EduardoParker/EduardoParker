@@ -1,11 +1,6 @@
 ![Web Developer](https://github.com/user-attachments/assets/a6efaa1d-e5d1-4ec1-9b85-e77b000f99d8)
 
-<div id="header" align="center">
-  <img decoding="async" src="[https://github.com/noelianav91/noelianav91/blob/main/Banner%20Github.png](https://github.com/user-attachments/assets/a6efaa1d-e5d1-4ec1-9b85-e77b000f99d8)" width="800"/>
-</div>
-
-
-Hi there 👋
+Hi there... 👋
 
 Here are some ideas to get you started:
 
